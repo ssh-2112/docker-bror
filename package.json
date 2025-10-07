@@ -44,7 +44,7 @@
     "@swc/core": "^1.11.11",
     "@tailwindcss/postcss": "^4",
     "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.0",
     "@types/humanize-duration": "^3.27.4",
     "@types/jest": "^30.0.0",
